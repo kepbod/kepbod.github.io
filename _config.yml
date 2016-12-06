@@ -1,7 +1,19 @@
+---
 title: Keep it simple, stupid
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 user: Xiao-Ou Zhang
 author:
   name: Xiao-Ou Zhang, PhD
-  description: "I'm a <a href='xiaoou_zhang_cv.pdf'>computational biologist</a> who is passionate about <a href='https://scholar.google.com/citations?user=KpX6MewAAAAJ'>RNA</a>, <a href='https://github.com/kepbod'>data mining</a>, and coffee."
-
-gems: [github-pages, jekyll-admin]
+  description: I'm a <a href='xiaoou_zhang_cv.pdf'>computational biologist</a> who
+    is passionate about <a href='https://scholar.google.com/citations?user=KpX6MewAAAAJ'>RNA</a>,
+    <a href='https://github.com/kepbod'>data mining</a>, and coffee.
+gems:
+- github-pages
+- jekyll-admin
