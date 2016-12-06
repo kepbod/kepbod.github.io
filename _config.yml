@@ -8,3 +8,5 @@ author:
     linkedin: "http://cn.linkedin.com/in/kepbod"
     github: "https://github.com/kepbod"
     email: "xozhang1989@gmail.com"
+
+gems: [github-pages, jekyll-admin]
