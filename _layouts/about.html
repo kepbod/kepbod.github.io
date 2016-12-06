@@ -19,13 +19,12 @@
         <!-- Footer -->
         <footer id="footer">
             <ul class="icons">
-                <li><a href="{{ site.author.twitter }}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="{{ site.author.linkedin }}" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
-                <li><a href="{{ site.author.github }}" class="icon fa-github"><span class="label">GitHub</span></a></li>
-                <li><a href="mailto:{{ site.author.email }}" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+                {% for contact in site.data.contacts %}
+                <li><a href="{{ contact.url }}" class="icon {{ contact.icon }}"><span class="label">{{ contact.title }}</span></a></li>
+                {% endfor %}
             </ul>
             <ul class="copyright">
-                <li>&copy; {{ site.user }}</li><li>Credits: <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://html5up.net">HTML5 UP</a></li>
+                <li>&copy; {{ site.user }}</li><li>Powered by: <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://html5up.net">HTML5 UP</a></li>
             </ul>
         </footer>
 
