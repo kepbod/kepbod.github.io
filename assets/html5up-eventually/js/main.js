@@ -39,8 +39,8 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/shanghai.jpg': 'center',
-							'images/boston.jpg': 'center',
+							'images/covers/shanghai.jpg': 'center',
+							'images/covers/boston.jpg': 'center',
 						},
 
 					// Delay.

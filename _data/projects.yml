@@ -1,0 +1,17 @@
+- title: CIRCfinder
+  description: CIRCfinder is a pipeline to map junction reads for circular intronic RNAs (ciRNAs). Using this pipeline, you could determine the exact boundaries of interested ciRNAs, so that you could do further characterizations for them.
+  image: https://camo.githubusercontent.com/810d48ba0a59ce348311de94e0e8d1b65279fea5/687474703a2f2f7777772e706963622e61632e636e2f726e6f6d6963732f646174612f7265736f75726365732f6369726366696e6465722e6a7067
+  paper: http://www.cell.com/molecular-cell/abstract/S1097-2765%2813%2900590-X
+  github: https://github.com/YangLab/CIRCfinder
+
+- title: CIRCexplorer
+  description: CIRCexplorer is a combined strategy to identify junction reads from back spliced exons and intron lariats.
+  image: https://raw.githubusercontent.com/YangLab/CIRCexplorer/master/flow.jpg
+  paper: http://www.sciencedirect.com/science/article/pii/S0092867414011118
+  github: https://github.com/YangLab/CIRCexplorer
+
+- title: CIRCexplorer2
+  description: CIRCexplorer2 is the successor of CIRCexplorer with plenty of new features to facilitate circular RNA identification and characterization.
+  image: http://circexplorer2.readthedocs.io/en/latest/image/characterization_pipeline.jpg
+  paper: http://genome.cshlp.org/content/26/9/1277.abstract
+  github: https://github.com/YangLab/CIRCexplorer2
