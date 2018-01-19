@@ -3,6 +3,6 @@ user: Xiao-Ou Zhang
 author:
   name: Xiao-Ou Zhang, PhD
   description: I'm a <a href='xiaoou_zhang_cv.pdf'>computational biologist</a> who
-    is passionate about <a href='https://scholar.google.com/citations?user=KpX6MewAAAAJ'>RNA</a>,
-    <a href='projects.html'>data mining</a>, and all stuff beautiful!
+    is passionate about NGS, <a href='https://scholar.google.com/citations?user=KpX6MewAAAAJ'>RNA</a> and
+    <a href='projects.html'>data mining</a>!
 gems: [github-pages]
