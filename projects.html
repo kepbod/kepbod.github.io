@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="assets/html5up-stellar/css/main.css" />
         <!--[if lte IE 9]><link rel="stylesheet" href="assets/html5up-stellar/css/ie9.css" /><![endif]-->
         <!--[if lte IE 8]><link rel="stylesheet" href="assets/html5up-stellar/css/ie8.css" /><![endif]-->
-    </head>
+    ileileijltlpl</head>
     <body>
 
         <!-- Wrapper -->
@@ -53,20 +53,25 @@
                 <!-- Projects -->
                 {% for project in site.data.projects %}
                     <section id="projects" class="main">
-                        <div class="spotlight">
-                            <div class="content">
-                                <header class="major">
-                                    <h2>{{ project.title }}</h2>
-                                </header>
-                                <p>{{ project.description }}</p>
-                                <ul class="icons">
-                                    <li><a href="{{ project.paper }}" class="icon fa-file alt"><span class="label">Paper</span></a></li>
-                                    <li><a href="{{ project.github }}" class="icon fa-github alt"><span class="label">Paper</span></a></li>
-                                </div>
-                                <span class="image"><img src="{{ project.image }}" alt="" /></span>
-                            </div>
-                        </section>
-                    {% endfor %}
+                        <header class="major">
+                            <h2>{{ project.project }}</h2>
+                        </header>
+                        <p>{{ project.description }}</p>
+                        <ul>
+                            {% for paper in project.papers %}
+                                <li>
+                                    {{ paper.title }}
+                                    {% if paper.paper %}
+                                        <a href="{{paper.paper}}" class="icon fa-file-o"><span class="label">Paper</span></a>
+                                    {% endif %}
+                                    {% if paper.github %}
+                                        <a href="{{paper.github}}" class="icon fa-github-alt"><span class="label">GitHub</span></a>
+                                    {% endif %}
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </section>
+                {% endfor %}
 
                     <!-- More -->
                     <section id="more" class="main special">
