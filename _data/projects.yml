@@ -8,7 +8,7 @@
     - title: <b>Zhang XO</b>*, Dong R*, Zhang Y*, Zhang JL, Luo Z, Zhang J, Chen LL†, Yang L†. Diverse alternative back-splicing and alternative splicing landscape of circular RNAs. <b><i>Genome Res</i></b>. 2016, 26:1277-1287.
       paper: http://genome.cshlp.org/content/26/9/1277.abstract
       github: https://github.com/YangLab/CIRCexplorer2
-    - title: <b>Zhang XO</b>*, Gingeras TR, Weng Z†. An atlas of polymerase III-transcribed Alu elements across human cell types and tissues. <b><i>Genome Res</i></b>. 2019, in press.
+    - title: <b>Zhang XO</b>, Gingeras TR, Weng Z†. An atlas of polymerase III-transcribed Alu elements across human cell types and tissues. <b><i>Genome Res</i></b>. 2019, in press.
       github: https://github.com/kepbod/rampage_alu
 
 - project: Circular RNAs
