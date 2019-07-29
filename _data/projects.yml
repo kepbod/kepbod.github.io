@@ -2,14 +2,14 @@
   description: Approximately 50% of the human genome is derived from transposable elements, and multiple key human cellular processes and genetic diseases have been affected by or linked to transposable elements. My work focused on how <i>Alu</i> elements, one of the most abundant SINE elements, regulate the expression of protein-coding genes and lncRNAs in cis or in trans. With high-resolution, long-genomic-span RAMPAGE data, I accurately quantified the expression levels of of 17,249 Pol III-transcribed <i>Alu</i> elements, and characterized genomic and epigenetic signatures associated with their transcription profile and potential function as cell type-specific enhancers (Genome Res, 2019). In addition, I also revealed that the pairing and competition between intronic <i>Alu</i> elements would contribute to the exon circularization (Cell, 2014) and be correlated with alternative back-splicing (Genome Res, 2016).
 
   papers:
-    - title: <b>Zhang XO</b>*, Gingeras TR, Weng Z†. An atlas of polymerase III-transcribed Alu elements across human cell types and tissues. <b><i>Genome Res</i></b>. 2019, in press.
-      github: https://github.com/kepbod/rampage_alu
     - title: <b>Zhang XO</b>*, Wang HB*, Zhang Y, Lu X, Chen LL†, Yang L†. Complementary sequence-mediated exon circularization. <b><i>Cell</i></b>. 2014, 159:134-147.
       paper: http://www.sciencedirect.com/science/article/pii/S0092867414011118
       github: https://github.com/YangLab/CIRCexplorer
     - title: <b>Zhang XO</b>*, Dong R*, Zhang Y*, Zhang JL, Luo Z, Zhang J, Chen LL†, Yang L†. Diverse alternative back-splicing and alternative splicing landscape of circular RNAs. <b><i>Genome Res</i></b>. 2016, 26:1277-1287.
       paper: http://genome.cshlp.org/content/26/9/1277.abstract
       github: https://github.com/YangLab/CIRCexplorer2
+    - title: <b>Zhang XO</b>*, Gingeras TR, Weng Z†. An atlas of polymerase III-transcribed Alu elements across human cell types and tissues. <b><i>Genome Res</i></b>. 2019, in press.
+      github: https://github.com/kepbod/rampage_alu
 
 - project: Circular RNAs
   description: Circular RNAs, as a newly emerging RNA species, have been identified in multiple species and different cell lines. But knowledge of their biogenesis machinery has remained limited. My work revealed some novel biogenesis clues for two distinct types of circular RNAs. One type of circular RNAs is derived from excised introns (circular intronic RNAs), and I discovered their processing depends on a consensus motif containing a 7 nt GU-rich element near the 5’ splice site and an 11 nt C-rich element close to the branchpoint site (Mol Cell, 2013). Another type of circular RNAs is from back-spliced exons (exonic circular RNAs), and I demonstrated that exon circularization is dependent on flanking intronic complementary sequences (e.g. IRAlus) and the efficiency of exon circularization can be regulated by competition between RNA pairing across flanking introns or within individual introns (Cell, 2014). Detailed study in multiple cell lines revealed that alternative back-splice site selection was correlated with the competition of putative RNA pairs across introns that bracket alternative back-splice sites, and alternative back-splicing were highly diverse among the examined cell lines (Genome Res, 2016).
