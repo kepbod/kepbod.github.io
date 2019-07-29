@@ -2,7 +2,7 @@
   description: Approximately 50% of the human genome is derived from transposable elements, and multiple key human cellular processes and genetic diseases have been affected by or linked to transposable elements. My work focused on how <i>Alu</i> elements, one of the most abundant SINE elements, regulate the expression of protein-coding genes and lncRNAs in cis or in trans. With high-resolution, long-genomic-span RAMPAGE data, I accurately quantified the expression levels of of 17,249 Pol III-transcribed <i>Alu</i> elements, and characterized genomic and epigenetic signatures associated with their transcription profile and potential function as cell type-specific enhancers (Genome Res, 2019). In addition, I also revealed that the pairing and competition between intronic <i>Alu</i> elements would contribute to the exon circularization (Cell, 2014) and be correlated with alternative back-splicing (Genome Res, 2016).
 
   papers:
-    - title <b>Zhang XO</b>*, Gingeras TR, Weng Z†. An atlas of polymerase III-transcribed Alu elements across human cell types and tissues. <b><i>Genome Res</i></b>. 2019, in press.
+    - title: <b>Zhang XO</b>*, Gingeras TR, Weng Z†. An atlas of polymerase III-transcribed Alu elements across human cell types and tissues. <b><i>Genome Res</i></b>. 2019, in press.
       github: https://github.com/kepbod/rampage_alu
     - title: <b>Zhang XO</b>*, Wang HB*, Zhang Y, Lu X, Chen LL†, Yang L†. Complementary sequence-mediated exon circularization. <b><i>Cell</i></b>. 2014, 159:134-147.
       paper: http://www.sciencedirect.com/science/article/pii/S0092867414011118
