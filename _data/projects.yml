@@ -6,9 +6,10 @@
       paper: http://www.sciencedirect.com/science/article/pii/S0092867414011118
       github: https://github.com/YangLab/CIRCexplorer
     - title: <b>Zhang XO</b>*, Dong R*, Zhang Y*, Zhang JL, Luo Z, Zhang J, Chen LL†, Yang L†. Diverse alternative back-splicing and alternative splicing landscape of circular RNAs. <b><i>Genome Res</i></b>. 2016, 26:1277-1287.
-      paper: http://genome.cshlp.org/content/26/9/1277.abstract
+      paper: http://genome.cshlp.org/content/26/9/1277
       github: https://github.com/YangLab/CIRCexplorer2
-    - title: <b>Zhang XO</b>, Gingeras TR, Weng Z†. An atlas of polymerase III-transcribed Alu elements across human cell types and tissues. <b><i>Genome Res</i></b>. 2019, in press.
+    - title: <b>Zhang XO</b>, Gingeras TR, Weng Z†. Genome-wide analysis of polymerase III–transcribed Alu elements suggests cell-type–specific enhancer function. <b><i>Genome Res</i></b>. 2019, 29:1402-1414.
+      paper: https://genome.cshlp.org/content/29/9/1402
       github: https://github.com/kepbod/rampage_alu
 
 - project: Circular RNAs
@@ -21,7 +22,7 @@
       paper: http://www.sciencedirect.com/science/article/pii/S0092867414011118
       github: https://github.com/YangLab/CIRCexplorer
     - title: <b>Zhang XO</b>*, Dong R*, Zhang Y*, Zhang JL, Luo Z, Zhang J, Chen LL†, Yang L†. Diverse alternative back-splicing and alternative splicing landscape of circular RNAs. <b><i>Genome Res</i></b>. 2016, 26:1277-1287.
-      paper: http://genome.cshlp.org/content/26/9/1277.abstract
+      paper: http://genome.cshlp.org/content/26/9/1277
       github: https://github.com/YangLab/CIRCexplorer2
 
 - project: Alternative Splicing
@@ -30,7 +31,7 @@
     - title: <b>Zhang XO</b>*, Yin QF*, Wang HB, Zhang Y, Chen T, Zheng P, Lu X, Chen LL†, Yang L†. Species-specific alternative splicing leads to unique expression of sno-lncRNAs. <b><i>BMC Genomics</i></b>. 2014, 15:287.
       paper: https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-287
     - title: <b>Zhang XO</b>*, Dong R*, Zhang Y*, Zhang JL, Luo Z, Zhang J, Chen LL†, Yang L†. Diverse alternative back-splicing and alternative splicing landscape of circular RNAs. <b><i>Genome Res</i></b>. 2016, 26:1277-1287.
-      paper: http://genome.cshlp.org/content/26/9/1277.abstract
+      paper: http://genome.cshlp.org/content/26/9/1277
       github: https://github.com/YangLab/CIRCexplorer2
     - title: <b>Zhang XO</b>, Fu Y, Mou H, Xue W, Weng Z†. The temporal landscape of recursive splicing during Pol II transcription elongation in human cells. <b><i>PLoS Genet</i></b>. 2018, 14:e1007579.
       paper: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007579
