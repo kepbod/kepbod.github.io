@@ -11,7 +11,7 @@
     - title: <b>Zhang XO</b>, Gingeras TR, Weng Z†. Genome-wide analysis of polymerase III–transcribed Alu elements suggests cell-type–specific enhancer function. <b><i>Genome Res</i></b>. 2019, 29:1402-1414.
       paper: https://genome.cshlp.org/content/29/9/1402
       github: https://github.com/kepbod/rampage_alu
-    - title: Zhang P*, <b>Zhang XO</b>*, Jiang T, Cai L, Huang X, Liu Q, Li D, Lu A, Liu Y, Xue W, Zhang P†, Weng Z†. Comprehensive identification of alternative back-splicing in human tissue transcriptomes. <b><i>Nucleic Acids Res</i></b>. 2020. doi: 10.1093/nar/gkaa005.
+    - title: Zhang P*, <b>Zhang XO</b>*, Jiang T, Cai L, Huang X, Liu Q, Li D, Lu A, Liu Y, Xue W, Zhang P†, Weng Z†. Comprehensive identification of alternative back-splicing in human tissue transcriptomes. <b><i>Nucleic Acids Res</i></b>. 2020. doi.org/10.1093/nar/gkaa005.
       paper: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa005/5715065
 
 - project: Circular RNAs
@@ -26,7 +26,7 @@
     - title: <b>Zhang XO</b>*, Dong R*, Zhang Y*, Zhang JL, Luo Z, Zhang J, Chen LL†, Yang L†. Diverse alternative back-splicing and alternative splicing landscape of circular RNAs. <b><i>Genome Res</i></b>. 2016, 26:1277-1287.
       paper: http://genome.cshlp.org/content/26/9/1277
       github: https://github.com/YangLab/CIRCexplorer2
-    - title: Zhang P*, <b>Zhang XO</b>*, Jiang T, Cai L, Huang X, Liu Q, Li D, Lu A, Liu Y, Xue W, Zhang P†, Weng Z†. Comprehensive identification of alternative back-splicing in human tissue transcriptomes. <b><i>Nucleic Acids Res</i></b>. 2020. doi: 10.1093/nar/gkaa005.
+    - title: Zhang P*, <b>Zhang XO</b>*, Jiang T, Cai L, Huang X, Liu Q, Li D, Lu A, Liu Y, Xue W, Zhang P†, Weng Z†. Comprehensive identification of alternative back-splicing in human tissue transcriptomes. <b><i>Nucleic Acids Res</i></b>. 2020. doi.org/10.1093/nar/gkaa005.
       paper: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa005/5715065
 
 - project: Alternative Splicing
