@@ -3,5 +3,5 @@ user: Xiao-Ou Zhang
 author:
   name: Xiao-Ou Zhang, PhD
   description: Principal Investigator and Group Leader, Tongji University. <br/>I'm a <a href='xiaoou_zhang_cv.pdf'>computational biologist</a> who
-    is passionate about <a href='http://xozhanglab.com/'> noncoding sequences</a> and <a href='https://scholar.google.com/citations?user=KpX6MewAAAAJ'>data mining</a>!
-gems: [github-pages]
+    is passionate about <a href='https://xozhanglab.com/' rel='noopener noreferrer'> noncoding sequences</a> and <a href='https://scholar.google.com/citations?user=KpX6MewAAAAJ' rel='noopener noreferrer'>data mining</a>!
+plugins: [github-pages]

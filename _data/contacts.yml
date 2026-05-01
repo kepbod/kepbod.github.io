@@ -5,3 +5,7 @@
 - title: GitHub
   url: https://github.com/kepbod
   icon: fa-github
+
+- title: Google Scholar
+  url: https://scholar.google.com/citations?user=KpX6MewAAAAJ
+  icon: fa-graduation-cap

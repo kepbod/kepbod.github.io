@@ -2,15 +2,18 @@
 ---
 
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
     <head>
         <title>{{ site.title }}</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-        <!--[if lte IE 8]><script src="assets/html5up-eventually/js/ie/html5shiv.js"></script><![endif]-->
+        <meta name="description" content="{{ site.author.description | strip_html }}" />
+        <meta property="og:title" content="{{ site.title }}" />
+        <meta property="og:description" content="{{ site.author.description | strip_html }}" />
+        <meta property="og:type" content="website" />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="stylesheet" href="assets/html5up-eventually/css/main.css" />
-        <!--[if lte IE 8]><link rel="stylesheet" href="assets/html5up-eventually/css/ie8.css" /><![endif]-->
-        <!--[if lte IE 9]><link rel="stylesheet" href="assets/html5up-eventually/css/ie9.css" /><![endif]-->
     </head>
     <body>
 
@@ -24,18 +27,23 @@
         <footer id="footer">
             <ul class="icons">
                 {% for contact in site.data.contacts %}
-                <li><a href="{{ contact.url }}" class="icon {{ contact.icon }}"><span class="label">{{ contact.title }}</span></a></li>
+                <li><a href="{{ contact.url }}" class="icon {{ contact.icon }}" rel="noopener noreferrer"><span class="label">{{ contact.title }}</span></a></li>
                 {% endfor %}
             </ul>
             <ul class="copyright">
-                <li>&copy; {{ site.user }}</li><li>Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://html5up.net">HTML5 UP</a></li>
+                <li>&copy; {{ site.user }}</li><li>Powered by <a href="https://jekyllrb.com" rel="noopener noreferrer">Jekyll</a> and <a href="https://html5up.net" rel="noopener noreferrer">HTML5 UP</a></li>
             </ul>
         </footer>
 
         <!-- Scripts -->
-        <!--[if lte IE 8]><script src="assets/html5up-eventually/js/ie/respond.min.js"></script><![endif]-->
         <script src="assets/html5up-eventually/js/main.js"></script>
-        <script src="assets/google_analytics.js"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-XXXXXXXXXX');
+        </script>
 
     </body>
 </html>
